@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.exe
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.deps.json
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.dll
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.pdb
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.sourcelink.json
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.dll
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\obj\Debug\net9.0\refint\MyDotNetApp.dll
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.pdb
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\MyDotNetApp\obj\Debug\net9.0\ref\MyDotNetApp.dll
