@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\bin\Debug\net9.0\Recommendation System from Scratch.exe
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\bin\Debug\net9.0\Recommendation System from Scratch.deps.json
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\bin\Debug\net9.0\Recommendation System from Scratch.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\bin\Debug\net9.0\Recommendation System from Scratch.dll
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\bin\Debug\net9.0\Recommendation System from Scratch.pdb
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\obj\Debug\net9.0\Recommendation System from Scratch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\obj\Debug\net9.0\Recommendation System from Scratch.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\obj\Debug\net9.0\Recommendation System from Scratch.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\obj\Debug\net9.0\Recommendation System from Scratch.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\obj\Debug\net9.0\Recommendation System from Scratch.sourcelink.json
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\obj\Debug\net9.0\Recommendation System from Scratch.dll
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\obj\Debug\net9.0\refint\Recommendation System from Scratch.dll
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\obj\Debug\net9.0\Recommendation System from Scratch.pdb
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\obj\Debug\net9.0\Recommendation System from Scratch.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\git\Pet-Projects\Recommendation System from Scratch\obj\Debug\net9.0\ref\Recommendation System from Scratch.dll

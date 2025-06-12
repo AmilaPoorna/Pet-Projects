@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Recommendation System from Scratch/1.0.0": {
+        "runtime": {
+          "Recommendation System from Scratch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recommendation System from Scratch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
